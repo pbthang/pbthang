@@ -1,7 +1,12 @@
-## Hello world 👋
-![Profile views](https://komarev.com/ghpvc/?username=pbthang)
-![Follow](https://img.shields.io/github/followers/pbthang?style=social)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+world%2C+I+am+Thang" alt="Hello world" >
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pbthang" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/pbthang?style=social" alt="Follow">
+</p>
+  
 I am Thang, currently a Computer Science student at the National University of Singapore, graduating in 2024. I do Software Engineering, Frontend, and Backend stuff.
 
 ### Contact me at
