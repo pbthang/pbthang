@@ -34,19 +34,19 @@ I am Thang, currently a Computer Science student at the National University of S
       srcset="https://github-readme-stats.vercel.app/api?username=pbthang&count_private=true&show_icons=true&custom_title=Thang's%20GitHub%20Stats"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=pbthang&count_private=true&show_icons=true&custom_title=Thang's%20GitHub%20Stats" alt="Thang's GitHub Stats" />&nbsp;
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=pbthang&count_private=true&show_icons=true&custom_title=Thang's%20GitHub%20Stats" alt="Thang's GitHub Stats" />
   </picture>
   
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&theme=dark&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact" alt="Top Langs" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&count_private=true" alt="Top Langs" />
   </picture>
 </div>
 <!--
