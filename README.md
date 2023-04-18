@@ -1,9 +1,49 @@
-### Hi there 👋
+## Hello world 👋
+![Profile views](https://komarev.com/ghpvc/?username=pbthang)
+![Follow](https://img.shields.io/github/followers/pbthang?style=social)
 
-[![pbthang's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbthang&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+I am Thang, currently a Computer Science student at the National University of Singapore, graduating in 2024. I do Software Engineering, Frontend, and Backend stuff.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+### Contact me at
+<div>
+  <a href="https://www.linkedin.com/in/pbthang/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bathang02@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://pbthang.netlify.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-202020?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</div>
 
+### My stats
+
+<div>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=pbthang&count_private=true&show_icons=true&theme=dark&custom_title=Thang's%20GitHub%20Stats"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=pbthang&count_private=true&show_icons=true&custom_title=Thang's%20GitHub%20Stats"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=pbthang&count_private=true&show_icons=true&custom_title=Thang's%20GitHub%20Stats" alt="Thang's GitHub Stats" />
+  </picture>
+  &emsp;
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact" alt="Top Langs" />
+  </picture>
+</div>
 <!--
 **pbthang/pbthang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
