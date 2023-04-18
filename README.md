@@ -29,9 +29,9 @@ I am Thang, currently a Computer Science student at the National University of S
       srcset="https://github-readme-stats.vercel.app/api?username=pbthang&count_private=true&show_icons=true&custom_title=Thang's%20GitHub%20Stats"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=pbthang&count_private=true&show_icons=true&custom_title=Thang's%20GitHub%20Stats" alt="Thang's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pbthang&count_private=true&show_icons=true&custom_title=Thang's%20GitHub%20Stats" alt="Thang's GitHub Stats" />&nbsp;
   </picture>
-  &nbsp;
+  
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&theme=dark"
