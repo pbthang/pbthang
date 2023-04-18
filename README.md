@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+world%2C+I+am+Thang" alt="Hello world" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+world%2C+I+am+Thang+Pham" alt="Hello world" >
 </p>
 
 <p align="center">
