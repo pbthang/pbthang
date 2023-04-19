@@ -9,7 +9,8 @@
   
 I am Thang, currently a Computer Science student at the National University of Singapore, graduating in 2024. I do Software Engineering, Frontend, and Backend stuff.
 
-### Contact me at
+### How to reach me
+
 <div>
   <a href="https://www.linkedin.com/in/pbthang/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -49,6 +50,7 @@ I am Thang, currently a Computer Science student at the National University of S
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&count_private=true" alt="Top Langs" />
   </picture>
 </div>
+
 <!--
 **pbthang/pbthang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
