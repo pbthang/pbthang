@@ -6,10 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=pbthang" alt="Profile views">
   <img src="https://img.shields.io/github/followers/pbthang?style=social" alt="Follow">
 </p>
-  
-I am Thang, currently a Computer Science student at the National University of Singapore, graduating in 2024. I do Software Engineering, Frontend, and Backend stuff.
 
-### How to reach me
+<br/>
+  
+I am Thang, currently a Computer Science student 👨‍💻 at the National University of Singapore 🏫, graduating in 2024. I do Software Engineering, Frontend, and Backend stuff 💻👾🛠⌨️
+
+Have a nice day guys! 🌈💐🌹🌻✨
+
+## 📞 How to reach me
 
 <div>
   <a href="https://www.linkedin.com/in/pbthang/">
@@ -23,7 +27,7 @@ I am Thang, currently a Computer Science student at the National University of S
   </a>
 </div>
 
-### My stats
+## 📊 My stats
 
 <div>
   <picture>
