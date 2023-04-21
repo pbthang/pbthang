@@ -11,7 +11,7 @@
   
 I am Thang, currently a Computer Science student 👨‍💻 at the National University of Singapore 🏫, graduating in 2024. I do Software Engineering, Frontend, and Backend stuff 💻👾🛠⌨️
 
-Have a nice day guys! 🌈💐🌹🌻✨
+Have a nice day guys 🌈💐🌹🌻✨
 
 ## 📞 How to reach me
 
