@@ -9,7 +9,7 @@
 
 <br/>
   
-I am Thang, currently a Computer Science student 👨‍💻 at the National University of Singapore 🏫, graduating in 2024. I do Software Engineering, Frontend, and Backend stuff 💻👾🛠⌨️
+I am Thang, currently a Computer Science student 👨‍💻 at the National University of Singapore 🇸🇬, graduating in 2️⃣0️⃣2️⃣4️⃣. I do Software Engineering, Frontend, and Backend stuff 💻👾🛠⌨️
 
 Have a nice day guys 🌈💐🌹🌻✨
 
