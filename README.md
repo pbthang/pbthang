@@ -51,7 +51,7 @@ Have a nice day guys 🌈💐🌹🌻✨
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&count_private=true" alt="Top Langs" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbthang&layout=compact&count_private=true&langs_count=10" alt="Top Langs" />
   </picture>
 </div>
 
